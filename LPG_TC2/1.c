@@ -6,7 +6,7 @@ int main()
     char frase[100], c;
     printf("Digite uma string de ate 100 caracteres: ");
     gets(frase);
-    for (i=0; i<=strlen(frase); i++) {
+    for (i=0; i<strlen(frase); i++) {
         c=frase[i];
         if (c=='a' || c=='e' || c=='i' || c=='o' || c=='u') {
             v++;
