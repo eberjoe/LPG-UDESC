@@ -1,13 +1,13 @@
 1. Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares.
 2. Um matemático italiano da idade média conseguiu modelar o ritmo de crescimento da população de coelhos através de uma sequência de números naturais que passou a ser conhecida como sequência de Fibonacci. O n-ésimo número da sequência de Fibonacci Fn dado pela seguinte fórmula de recorrência:
 
-  F(1)=1
-  F(2)=1
-  F(i)=F(i-1)+F(i-2) para i>=3
+* F(1)=1
+* F(2)=1
+* F(i)=F(i-1)+F(i-2) para i>=3
 
-  faça um programa que, dado n, calcula F(n).
-3. Elabore um programa recursivo em C que calcule o n-ésimo termo da sequência: 1, 2, 4, 8, 16, 32... . O termo deverá ser impresso na função
-main().
+Faça um programa que, dado n, calcula F(n).
+
+3. Elabore um programa recursivo em C que calcule o n-ésimo termo da sequência: 1, 2, 4, 8, 16, 32... . O termo deverá ser impresso na função main().
 4. Escreva um programa que solicite dois números inteiros do usuário e mostre um menu com as opções de operações aritméticas a serem feitas com estes dois valores:
 - produto
 - soma
