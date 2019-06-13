@@ -16,5 +16,6 @@ int main() {
         soma+=vetor[e];
     }
     printf("\n%d", soma);
+    free(vetor);
     return 0;
 }
